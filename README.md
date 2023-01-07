@@ -1,5 +1,5 @@
 # namasteReact_3
-### Top Covered
+## Top Covered
    #### 1. JSX
    #### 2. React.createElement vs JSX
    #### 3. Benefits of JSX
