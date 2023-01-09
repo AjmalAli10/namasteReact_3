@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM  from "react-dom/client";
+import Header from "./Assignment/Header";
 
 // React.createElemet => object => html(DOM).
 
@@ -38,4 +39,4 @@ const HeadingComponent = function (){
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<HeadingComponent />);
+root.render(<Header />);
