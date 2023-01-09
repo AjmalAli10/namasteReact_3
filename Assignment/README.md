@@ -2,6 +2,8 @@
 
 ## Created Header Component from scract using Function component with JSX.
 
+### Live link - https://react-header-nav.netlify.app/
+
 ### Added a Logo on left
 
 ### Added a search bar in middle
