@@ -18,6 +18,12 @@
     justify-content: center;
     width: 100%;
 }
+.form-mobile{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
 .input-search{
  height: 57px;
 }
@@ -48,4 +54,19 @@
 }
 .user-icon{
     margin-right: 20px;
+}
+@media screen and (max-width: 600px) {
+    .form-mobile{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        margin-top: 22px;
+    }
+    .form{
+        display: none;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
 }
