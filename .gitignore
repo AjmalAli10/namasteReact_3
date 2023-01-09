@@ -31,3 +31,5 @@ Thumbs.db
 
 #personal IDE config files, such as 
 .idea/workspace.xml
+# Local Netlify folder
+.netlify

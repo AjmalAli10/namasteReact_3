@@ -1,5 +1,5 @@
 import "./Header.css"
-Header = () =>(
+const Header = () =>(
         <div className="heading">
         <img src="https://img.icons8.com/clouds/150/null/react.png" alt="react-logo" className="logo"/>
         <form className="form">
